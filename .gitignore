@@ -1,0 +1,6 @@
+# parcel-bundler (https://parceljs.org/)
+.cache
+dist
+
+# npm
+node_modules

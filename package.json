@@ -1,0 +1,16 @@
+{
+  "name": "html-with-typescript-using-parceljs",
+  "version": "1.0.0",
+  "description": "HTML with TypeScript using ParcelJS (ParcelJS: bundler without configuration)",
+  "main": "index.html",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel serve index.html"
+  },
+  "author": "Bram Groothedde",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  }
+}
